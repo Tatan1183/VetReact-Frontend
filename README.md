@@ -18,12 +18,25 @@ If you are developing a production application, we recommend using TypeScript wi
  
 Características Principales:
 
--Interfaz de Usuario Moderna: Construida con React y estilizada con Bootstrap.
--Gestión Completa: Permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) para Citas, Clientes, Mascotas, Servicios y Veterinarios.
--Subida de Imágenes: Interfaz para cargar imágenes para Mascotas y Veterinarios.
--Navegación Fluida: Uso de React Router DOM para la navegación entre módulos.
--Notificaciones Amigables: Integración con SweetAlert2 para mensajes al usuario.
--Consumo de API: Utiliza Axios para comunicarse con el backend VetSys Pro.
+-  Interfaz de Usuario Moderna:
+   Construida con React y estilizada con Bootstrap.
+ 
+-  Gestión Completa:
+   Permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) para Citas, Clientes, Mascotas, Servicios y Veterinarios.
+   
+-  Subida de Imágenes:
+   Interfaz para cargar imágenes para Mascotas y Veterinarios.
+   
+-  Navegación Fluida:
+   Uso de React Router DOM para la navegación entre módulos.
+  
+-  Notificaciones Amigables:
+   Integración con SweetAlert2 para mensajes al usuario.
+  
+-  Consumo de API:
+   Utiliza Axios para comunicarse con el backend VetSys Pro.
+
+   
 
 Tecnologías Utilizadas:
 
